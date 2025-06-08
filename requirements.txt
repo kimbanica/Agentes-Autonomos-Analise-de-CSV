@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+langchain
+langchain-experimental
+langchain-community
+openai
+llama-cpp-python
+tabulate
+python-multipart
