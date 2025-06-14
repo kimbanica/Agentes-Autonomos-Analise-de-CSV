@@ -5,6 +5,14 @@ from langchain_community.llms import OpenAI, LlamaCpp
 from langchain_experimental.agents import create_csv_agent
 import traceback
 
+from dotenv import load_dotenv
+load_dotenv()
+
+import os
+openai_api_key = os.getenv("OPENAI_API_KEY")
+
+llm = OpenAI(temperature=0, openai_api_key=openai_api_key)
+
 def responder(arquivo_zip_path: str, pergunta: str) -> str:
     try:
         # Criar diretório temporário
