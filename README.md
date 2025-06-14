@@ -16,4 +16,4 @@ Este projeto utiliza um agente inteligente que processa arquivos `.csv` compacta
 
 ## 🎥 Tutorial em Vídeo — Execução do Agente Autônomo CSV
 
-[▶️ Clique aqui para assistir ao vídeo no Google Drive](https://drive.google.com/file/d/1oY3MDExmyRRC4Bl6uHfz-2h9FNrbCAUN/view?usp=sharing)
+[▶️ Clique aqui para assistir ao vídeo](https://drive.google.com/file/d/1oY3MDExmyRRC4Bl6uHfz-2h9FNrbCAUN/view?usp=sharing)
