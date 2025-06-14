@@ -13,3 +13,7 @@ Este projeto utiliza um agente inteligente que processa arquivos `.csv` compacta
 - 📥 [Como configurar o modelo Mistral](docs/instalacao_modelo.md)
 - 💡 [Exemplos de perguntas](docs/perguntas_exemplo.md)
 - 🛠️ [Guia completo de execução](docs/Guia_Execucao_Agente_CSV.md)
+
+## 🎥 Tutorial em Vídeo — Execução do Agente Autônomo CSV
+
+[▶️ Clique aqui para assistir ao vídeo no Google Drive](https://drive.google.com/file/d/1oY3MDExmyRRC4Bl6uHfz-2h9FNrbCAUN/view?usp=sharing)
