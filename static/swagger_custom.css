@@ -1,0 +1,22 @@
+body {
+  background-color: #fff8e1;
+}
+
+.swagger-ui .topbar {
+  background-color: #d4af37;
+}
+
+.swagger-ui .topbar-wrapper span {
+  color: #000;
+  font-weight: bold;
+}
+
+.swagger-ui .btn {
+  background-color: #d4af37;
+  border-color: #c5a32e;
+  color: #000;
+}
+
+.swagger-ui input, .swagger-ui textarea {
+  border: 1px solid #c5a32e;
+}
