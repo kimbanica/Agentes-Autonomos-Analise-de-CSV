@@ -12,4 +12,4 @@ Este projeto utiliza um agente inteligente que processa arquivos `.csv` compacta
 
 - 📥 [Como configurar o modelo Mistral](docs/instalacao_modelo.md)
 - 💡 [Exemplos de perguntas](docs/perguntas_exemplo.md)
-- 🛠️ [Guia completo de execução](docs/guia_rapido.md)
+- 🛠️ [Guia completo de execução](docs/Guia_Execucao_Agente_CSV)
