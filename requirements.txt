@@ -4,6 +4,7 @@ pandas
 langchain
 langchain-experimental
 langchain-community
+llama-cpp-python
 openai
 llama-cpp-python
 tabulate
